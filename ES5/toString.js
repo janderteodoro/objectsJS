@@ -6,5 +6,4 @@ Quando não passamos nenhum argumeto, automaticamente ele converte para a base d
 
 let n = 308912; // número decimal
 const binaryString = n.toString(2); // 1001011011010110000
-const hexaDecimalString = n.toString(16); 
-console.log(hexaDecimalString); 
+const hexaDecimalString = n.toString(16);  // o mesmo número em base exadecimal 4b6b0 
